@@ -1,8 +1,6 @@
 cgrimshaw.github.io
 ====================
 
-## Hello world!
-
 Github repository for various past and current projects
 
 My Github user page is at: 
